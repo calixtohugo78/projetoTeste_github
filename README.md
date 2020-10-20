@@ -1,3 +1,1 @@
-Meu primeiro projeto no Git
-
-Alteração feita
+Meu primeiro sistema no Git alterado e atualizado remotamente
